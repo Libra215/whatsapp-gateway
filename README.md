@@ -75,7 +75,8 @@ DB_DIALECT=mysql
 ## Installing the dependencies
 
 ```cmd
-> npm install
+> npm install --global yarn
+> yarn install
 ```
 
 ## Running App
