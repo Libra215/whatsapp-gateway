@@ -32,7 +32,7 @@ Requirements
 ## Cloning this repo
 
 ```cmd
-> git clone https://github.com/fawwaz37/whatsapp-gateway.git
+> git clone https://github.com/Libra215/whatsapp-gateway.git
 > cd whatsapp-gateway
 ```
 
