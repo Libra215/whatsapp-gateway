@@ -1,5 +1,6 @@
 # public/mazer
 session/*/*.json
+package-lock.json
 # public/log/*.txt
 
 # Logs
