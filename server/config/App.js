@@ -15,7 +15,7 @@ class App {
 		this.app = express();
 		this.plugins();
 		this.route();
-		this.PORT = process.env.PORT || 8080;
+		this.PORT = process.env.PORT || 3000;
 	}
 
 	plugins() {
@@ -39,7 +39,7 @@ class App {
 			fileUpload({
 				fileSize: 10 * 1024 * 1024,
 			})
-		);
+			);
 
 		// connectDatabase();
 	}
